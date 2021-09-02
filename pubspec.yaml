@@ -1,0 +1,43 @@
+name: flutter_application_1
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #  employee:
+  #    path: employee
+
+  cupertino_icons: ^1.0.0
+
+
+
+
+
+
+
+
+#dev_dependencies:
+#  flutter_test:
+#    sdk: flutter
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  test:
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/ #ภาพทั้งหมดที่มี ไม่ต้องเรียกใช้ทีละตัว
+
+  fonts:
+    - family: Kanit-Light
+      fonts:
+        - asset: assets/Kanit-Light.ttf
