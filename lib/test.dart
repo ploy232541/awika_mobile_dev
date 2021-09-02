@@ -1,2 +1,0 @@
-หอหกปอาปาอทปสวแทอสปแทอปแทอปแมอฝใปแอฝปแทอใมฝskdkl;msldmfsd;lf
-sdfmcsld;f;sldkf;sldkfks;dl
